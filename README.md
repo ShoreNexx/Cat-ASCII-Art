@@ -14,8 +14,8 @@ Follow these steps to install the cat command:
 1. **Clone the repository**:
    Open your terminal and run the following command:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/ShoreNexx/Cat-ASCII-Art.git
+   cd Cat-ASCII-Art
 
 2. **Run the installation script**: This will move the cat script to a directory in your PATH,   allowing you to use it from anywhere:
    ```bash
